@@ -4,7 +4,6 @@
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
   "installCommand": "npm install",
-  "regions": ["cn-north-1"],
   "functions": {
     "app/api/**/*.{js,ts}": {
       "maxDuration": 60
